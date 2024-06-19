@@ -1,6 +1,6 @@
 import React from "react";
 import ReactImg from "../assets/react.svg";
-import TFLogo from "../assets/tensorflow_logo.svg";
+import TFLogo from "../assets/Tensorflow_logo.svg";
 const Hero = () => {
   return (
     <div className="container mx-auto mb-15">

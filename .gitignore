@@ -7,9 +7,10 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependency directories
 node_modules
-dist
-dist-ssr
+
+# Local environment files
 *.local
 
 # Editor directories and files
@@ -22,3 +23,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Ignoring build directories but including specific files
+# dist/
+# !dist/
+# build/
+# !build/
+# out/
+# !out/
+.vercel
