@@ -3,7 +3,7 @@ import UTALogo from '../assets/uta_logo.png';
 import ProjectCard from './ProjectCard';
 import GameNexus from '../assets/game_nexus.png';
 import CampusFlow from '../assets/campus_flow.png';
-import IMDB from '../assets/imdb.png';
+import IMDB from '../assets/IMDB.png';
 import IssueTracker from '../assets/IssueTracker.png';
 const Projects = () => {
   const link = 'https://www.google.com';
