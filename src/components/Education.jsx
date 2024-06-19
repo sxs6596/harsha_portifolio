@@ -18,7 +18,7 @@ const Education = () => {
                    </div>
                </div>
                <div className="flex">
-                  <h4>GPA : 3.70</h4>
+               <h4>GPA : 3.70</h4>
                </div>
              
       </div>

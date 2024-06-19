@@ -18,10 +18,12 @@ const Hero = () => {
             </h3>
           </div>
           <p className="text-md text-slate-700 max-w-sm p-3 m-2">
-            Skilled developer (Java, JavaScript, React.js, Next.js, Angular,
-            Node.js, SpringBoot) with cloud (AWS), database(postgres, MySQL,
-            MongoDB) and deployment (Heroku, Docker) expertise. Passionate about
-            mathematics and algorithms.
+            Proficient in Java, JavaScript, React.js, Next.js, Angular, Node.js,
+            and SpringBoot with extensive experience in cloud computing (AWS),
+            database management (PostgreSQL, MySQL, MongoDB), and deployment
+            (Heroku, Docker). Passionate about mathematics and algorithms,
+            consistently delivering high-quality, scalable, and efficient
+            solutions.
           </p>
         </div>
 
@@ -34,9 +36,11 @@ const Hero = () => {
             </h3>
           </div>
           <p className="text-md text-slate-700 max-w-sm p-3 m-2">
-            Skilled in PyTorch and DeepLearning for and image datasets, with 3
-            years of experience in information retrieval developing natural
-            language search engine
+            Skilled in machine learning and deep learning, I continually explore
+            generative AI and integrate it into full stack applications. I
+            specialize in fine-tuning generative models and leveraging front-end
+            frameworks like Angular and React, combined with robust back-end
+            technologies, to create intelligent and user-friendly solutions.
           </p>
         </div>
       </div>
